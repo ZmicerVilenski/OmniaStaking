@@ -1,4 +1,4 @@
-# Sample Hardhat Project
+# Omnia test staking contract
 
 https://omniatech.io/calculator.html
 
